@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T18:01:00.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="4bNp2JaTymh3j_GDrLby" version="21.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-23T18:59:09.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="XRcAKPkII7-EXN8pno26" version="21.5.0" type="github" pages="2">
   <diagram name="Manage Wallet" id="5awPg63cm1WxTuEfacTO">
-    <mxGraphModel dx="989" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,11 +139,94 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="fyu44ev1ghskN56KDaU9" name="Page-2">
-    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="fyu44ev1ghskN56KDaU9" name="Create new Safe">
+    <mxGraphModel dx="1195" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-hH9Fs46Qcf0c_BuP5_e-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EJD0vCWCPu-LAFwcsbmk-3" target="-hH9Fs46Qcf0c_BuP5_e-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EJD0vCWCPu-LAFwcsbmk-3" value="User" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="10" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-hH9Fs46Qcf0c_BuP5_e-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-hH9Fs46Qcf0c_BuP5_e-5" target="-hH9Fs46Qcf0c_BuP5_e-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hH9Fs46Qcf0c_BuP5_e-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-hH9Fs46Qcf0c_BuP5_e-5" target="-hH9Fs46Qcf0c_BuP5_e-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZDD04rEkdSMOmTdYZ33-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-hH9Fs46Qcf0c_BuP5_e-5" target="-ZDD04rEkdSMOmTdYZ33-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hH9Fs46Qcf0c_BuP5_e-5" value="IF" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZDD04rEkdSMOmTdYZ33-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-hH9Fs46Qcf0c_BuP5_e-7" target="-ZDD04rEkdSMOmTdYZ33-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hH9Fs46Qcf0c_BuP5_e-7" value="Access the Create Safe via add account" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-hH9Fs46Qcf0c_BuP5_e-9" value="Displays Connect Wallet btn" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-hH9Fs46Qcf0c_BuP5_e-11" value="Wallet is not connected" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="470" y="120" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RGvslmPcz4QAWLR54-Pj-1" value="Wallet is connected with have a safe" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="210" width="215" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZDD04rEkdSMOmTdYZ33-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ZDD04rEkdSMOmTdYZ33-1" target="-ZDD04rEkdSMOmTdYZ33-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZDD04rEkdSMOmTdYZ33-1" value="Access the Create Safe via Homepage" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZDD04rEkdSMOmTdYZ33-3" value="with no a safe connection from the Homepage " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="w59ss8TH4YG7nRdSjHMB-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ZDD04rEkdSMOmTdYZ33-5" target="w59ss8TH4YG7nRdSjHMB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZDD04rEkdSMOmTdYZ33-5" value="Create New Safe Page" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w59ss8TH4YG7nRdSjHMB-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w59ss8TH4YG7nRdSjHMB-1" target="w59ss8TH4YG7nRdSjHMB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w59ss8TH4YG7nRdSjHMB-1" value="Name of the new Safe" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w59ss8TH4YG7nRdSjHMB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w59ss8TH4YG7nRdSjHMB-3" target="w59ss8TH4YG7nRdSjHMB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w59ss8TH4YG7nRdSjHMB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w59ss8TH4YG7nRdSjHMB-3" target="w59ss8TH4YG7nRdSjHMB-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="818" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w59ss8TH4YG7nRdSjHMB-3" value="IF" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="777.5" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w59ss8TH4YG7nRdSjHMB-5" value="Show Error: Safe name should be between 4 to 15 characters long." style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w59ss8TH4YG7nRdSjHMB-9" value="Character Less than 5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="444" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="w59ss8TH4YG7nRdSjHMB-10" value="Show Error: Only alphanumeric characters, underscores or dashes are allowed" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="310" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w59ss8TH4YG7nRdSjHMB-12" value="has a unique character" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="300" width="140" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
