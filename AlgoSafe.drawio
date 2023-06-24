@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T17:06:06.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="dBbu1clLRDqQntj4-9m8" version="21.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-24T17:06:42.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="MhdNQYL5mgIg3RGttGGl" version="21.5.0" type="github" pages="2">
   <diagram name="Manage Wallet" id="5awPg63cm1WxTuEfacTO">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fyu44ev1ghskN56KDaU9" name="Create new Safe">
-    <mxGraphModel dx="2390" dy="1303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -550,7 +550,7 @@
           <mxGeometry x="670" y="2052" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ECM7uWjErMggsweMI00H-13" value="Retry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="818" y="1852" width="60" height="30" as="geometry" />
+          <mxGeometry x="870" y="1890" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ECM7uWjErMggsweMI00H-14" value="Back" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="990.5" y="1762" width="60" height="30" as="geometry" />
