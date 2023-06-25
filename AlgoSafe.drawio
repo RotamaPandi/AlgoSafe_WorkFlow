@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T16:02:01.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="CKk9LqYR5dktbUulPh3y" version="21.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-25T16:05:03.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="vGd4jea_YcBgRLe7Qp2s" version="21.5.0" type="github" pages="2">
   <diagram name="Manage Wallet" id="5awPg63cm1WxTuEfacTO">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fyu44ev1ghskN56KDaU9" name="Create new Safe">
-    <mxGraphModel dx="1509" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,8 +203,11 @@
             <mxPoint x="419.5" y="460" as="sourcePoint" />
             <mxPoint x="417" y="943" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="418" y="460" />
+              <mxPoint x="420" y="461" />
+              <mxPoint x="417" y="461" />
+              <mxPoint x="417" y="702" />
               <mxPoint x="418" y="702" />
+              <mxPoint x="418" y="1135" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -262,8 +265,8 @@
         <mxCell id="moS2BFmVlheYaDBR8hto-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mvuqpyLpqDPVKiCjo4g9-5" target="mvuqpyLpqDPVKiCjo4g9-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mvuqpyLpqDPVKiCjo4g9-5" value="&lt;div&gt;Min 1 and &lt;br&gt;&lt;/div&gt;&lt;div&gt;Max 10&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="749.5" y="587.5" width="100" height="65" as="geometry" />
+        <mxCell id="mvuqpyLpqDPVKiCjo4g9-5" value="&lt;div&gt;Min 1 and &lt;br&gt;&lt;/div&gt;&lt;div&gt;Max 10 (based on the Number of Signers selected)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="749.5" y="584" width="140.5" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="mvuqpyLpqDPVKiCjo4g9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="mvuqpyLpqDPVKiCjo4g9-42" target="mvuqpyLpqDPVKiCjo4g9-14" edge="1">
           <mxGeometry relative="1" as="geometry">
