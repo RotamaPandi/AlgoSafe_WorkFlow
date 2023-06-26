@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T16:05:03.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="vGd4jea_YcBgRLe7Qp2s" version="21.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-26T02:26:54.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="un42fjMe8ADKyhhmlNvd" version="21.5.0" type="github" pages="2">
   <diagram name="Manage Wallet" id="5awPg63cm1WxTuEfacTO">
-    <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,7 +136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fyu44ev1ghskN56KDaU9" name="Create new Safe">
-    <mxGraphModel dx="2206" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,7 +164,7 @@
         <mxCell id="-hH9Fs46Qcf0c_BuP5_e-7" value="Access the Create Safe via add account" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="357.5" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-ar6Bc1HvU4aPYs6qE2Y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-hH9Fs46Qcf0c_BuP5_e-9" target="-ar6Bc1HvU4aPYs6qE2Y-2">
+        <mxCell id="-ar6Bc1HvU4aPYs6qE2Y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-hH9Fs46Qcf0c_BuP5_e-9" target="-ar6Bc1HvU4aPYs6qE2Y-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-hH9Fs46Qcf0c_BuP5_e-9" value="Access the Create Safe via Homepage" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
@@ -584,7 +584,7 @@
         <mxCell id="ECM7uWjErMggsweMI00H-19" value="Go to Dashboard btn" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="785.5" y="2322" width="114.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ECM7uWjErMggsweMI00H-21" value="Dashboard page and Displays the safe" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ECM7uWjErMggsweMI00H-21" value="Dashboard page and Displays the created safe" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="603" y="2440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ECM7uWjErMggsweMI00H-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ECM7uWjErMggsweMI00H-23" target="ECM7uWjErMggsweMI00H-27" edge="1">
@@ -636,10 +636,10 @@
         <mxCell id="zpaHHrfeQMPm2GlsRqEY-6" value="Back" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="1262" width="50" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="-ar6Bc1HvU4aPYs6qE2Y-1" value="&lt;div&gt;Wallet is connected &lt;br&gt;&lt;/div&gt;&lt;div&gt;with No have a safe&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-ar6Bc1HvU4aPYs6qE2Y-1" value="&lt;div&gt;Wallet is connected &lt;br&gt;&lt;/div&gt;&lt;div&gt;with No have a safe&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="203" width="117.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-ar6Bc1HvU4aPYs6qE2Y-2" value="Displays Connect Wallet btn" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="-ar6Bc1HvU4aPYs6qE2Y-2" value="Displays Connect Wallet btn" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="840" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
